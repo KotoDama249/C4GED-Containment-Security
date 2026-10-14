@@ -1,0 +1,18 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://cyb2w6e7epmxg"]
+
+[ext_resource type="Texture2D" uid="uid://vyqvs5vfquxi" path="res://Custom Night Menu/Images/Character Portraits/Kasey Deselected.png" id="1_5sh1r"]
+[ext_resource type="Texture2D" uid="uid://babbfl1yuwten" path="res://Custom Night Menu/Images/Character Portraits/Kasey.png" id="2_ct748"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_5sh1r")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ct748")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 5.0
+}]

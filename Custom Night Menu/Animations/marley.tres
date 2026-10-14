@@ -1,0 +1,18 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://c5mm0cg81i3wf"]
+
+[ext_resource type="Texture2D" uid="uid://cjhjvlg4tihk5" path="res://Custom Night Menu/Images/Character Portraits/Marley Deselected.png" id="1_qryh8"]
+[ext_resource type="Texture2D" uid="uid://b6sq6tex8v24r" path="res://Custom Night Menu/Images/Character Portraits/Marley.png" id="2_gmmbs"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_qryh8")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_gmmbs")
+}],
+"loop": 0,
+"name": &"default",
+"speed": 5.0
+}]

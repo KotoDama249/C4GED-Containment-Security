@@ -1,0 +1,18 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://wl388nsfuldg"]
+
+[ext_resource type="Texture2D" uid="uid://bu6rmce2xko3s" path="res://Custom Night Menu/Images/Character Portraits/Kylar Deselected.png" id="1_wdw5p"]
+[ext_resource type="Texture2D" uid="uid://v50cfi02d78j" path="res://Custom Night Menu/Images/Character Portraits/Kylar.png" id="2_athwp"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_wdw5p")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_athwp")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 5.0
+}]

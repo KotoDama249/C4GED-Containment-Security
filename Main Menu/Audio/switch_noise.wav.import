@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://x0w71l52mm1b"
+path="res://.godot/imported/switch_noise.wav-5db667b01a6d79785ca3b0bd66bb749b.sample"
+
+[deps]
+
+source_file="res://Main Menu/Audio/switch_noise.wav"
+dest_files=["res://.godot/imported/switch_noise.wav-5db667b01a6d79785ca3b0bd66bb749b.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

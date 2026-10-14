@@ -1,0 +1,18 @@
+[gd_resource type="SpriteFrames" format=3 uid="uid://bx027y4codagx"]
+
+[ext_resource type="Texture2D" uid="uid://cp573qfnegfma" path="res://Custom Night Menu/Images/Character Portraits/Nessa Deselected.png" id="1_tmnhy"]
+[ext_resource type="Texture2D" uid="uid://bj3w8sg7cgiqp" path="res://Custom Night Menu/Images/Character Portraits/Nessa.png" id="2_ort2e"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_tmnhy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_ort2e")
+}],
+"loop": 1,
+"name": &"default",
+"speed": 5.0
+}]
